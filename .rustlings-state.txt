@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-traits3
+iterators4
 
 intro1
 intro2
@@ -61,3 +61,15 @@ generics1
 generics2
 traits1
 traits2
+traits3
+traits4
+traits5
+lifetimes1
+lifetimes2
+lifetimes3
+tests1
+tests2
+tests3
+iterators1
+iterators2
+iterators3
