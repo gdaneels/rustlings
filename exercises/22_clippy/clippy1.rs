@@ -1,3 +1,4 @@
+use std::f32::consts::PI;
 // The Clippy tool is a collection of lints to analyze your code so you can
 // catch common mistakes and improve your Rust code.
 //
@@ -6,7 +7,7 @@
 
 fn main() {
     // TODO: Fix the Clippy lint in this line.
-    let pi = 3.14;
+    let pi = PI;
     let radius: f32 = 5.0;
 
     let area = pi * radius.powi(2);
