@@ -20,4 +20,124 @@ These should be the main ways ***within the standard library*** to convert data 
 These are not directly covered in the book, but the standard library has a great documentation for it.
 
 - [conversions](https://doc.rust-lang.org/std/convert/index.html)
-- [`FromStr` trait](https://doc.rust-lang.org/std/str/trait.FromStr.html)
+- [`FromStr` trait](https://doc.rust-lanCustomer 
+Order
+	
+Qty
+	
+Customer Center
+	
+Destination 
+country
+	
+Ordered
+
+
+13958204
+	
+2
+	
+ATLAS COPCO BELGIUM NV
+	
+Belgium
+	
+16/12/2024
+
+
+14200834
+	
+2
+	
+ATLAS COPCO COMPRESSOR
+	
+Australia
+	
+5/02/2025
+
+
+14200105
+	
+3
+	
+ATLAS COPCO KOREA CO LTD
+	
+South Korea
+	
+5/02/2025
+
+
+14274824
+	
+4
+	
+ATLAS COPCO SPAIN S.A.E.vision
+	
+Spain
+	
+18/02/2025
+
+
+14338788
+	
+2
+	
+ATLAS COPCO (PHILIPPINES) INC.
+	
+Philippines
+	
+28/02/2025
+
+
+14340751
+	
+2
+	
+ATLAS COPCO SCHWEIZ AG
+	
+Switzerland
+	
+28/02/2025
+
+
+14336760
+	
+1
+	
+ATLAS COPCO MEXICANA SA DE CV
+	
+Mexico
+	
+27/feb
+
+
+14182663
+	
+3
+	
+AC COMPRESSORS LLC
+	
+United States
+	
+31/01/2025
+
+
+14305622
+	
+6
+	
+ATLAS COPCO MOROCCO
+	
+Morocco
+	
+24/02/2025
+
+
+14000362
+	
+3
+	
+ATLAS COPCO MOROCCO
+	
+Morocco
+	
+25/12/2024g.org/std/str/trait.FromStr.html)
